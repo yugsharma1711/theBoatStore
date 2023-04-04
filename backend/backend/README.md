@@ -1,10 +1,12 @@
 # Project Support
 ### Introduction
-Project Support is an open source platform that enable users share causes they're passionate about and actively involved with with the hopes of connecting with other users equally interested in working with them on the given cause.
+E-commerce has become one of the most popular and profitable industries in recent times. With the rise of online shopping, it has become necessary to develop efficient and user-friendly web applications that can handle a large amount of data and transactions. One of the key components of an e-commerce platform is the API, which allows for communication between the front-end and back-end of the application.
+RESTful APIs have become the standard for web applications because of their simplicity and flexibility. Built on the Django framework, an e-commerce platform can leverage the power of RESTful APIs to provide a seamless user experience. Django is a popular web framework for building scalable and robust web applications, and its built-in features such as ORM, templating engine, and security measures make it an ideal choice for developing e-commerce platforms.
 ### Project Support Features
-* Users can signup and login to their accounts
-* Public (non-authenticated) users can access all products on the platform
-* Authenticated users can access all causes as well as create a new cause, edit their created cause and also delete what they've created.
+* Users can signup and login to their accounts.
+* Public (non-authenticated) users can access all products on the platform.
+* Users can place orders and see the orders.
+* Payment can be done through stripe.
 ### Installation Guide
 * Clone this repository [here](https://github.com/yugsharma1711/theBoatStore.git).
 * The develop branch is the most stable branch at any given time, ensure you're working from it.
