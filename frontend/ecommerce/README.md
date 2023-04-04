@@ -16,8 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 For integration of stripe 
-Configure the .env variables according to the stripe documentation. 
-Link: https://stripe.com/
+Configure the .env variables according to the stripe documentation. https://stripe.com/
 
 ## Learn More
 
