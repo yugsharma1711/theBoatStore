@@ -1,0 +1,28 @@
+"filename", "language", "JavaScript", "JavaScript JSX", "CSS", "XML", "Markdown", "JSON", "JSON with Comments", "comment", "blank", "total"
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\README.md", "Markdown", 0, 0, 0, 0, 23, 0, 0, 0, 16, 39
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\components\Cart.jsx", "JavaScript JSX", 0, 72, 0, 0, 0, 0, 0, 0, 3, 75
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\components\Footer.jsx", "JavaScript JSX", 0, 14, 0, 0, 0, 0, 0, 0, 1, 15
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\components\FooterBanner.jsx", "JavaScript JSX", 0, 21, 0, 0, 0, 0, 0, 0, 3, 24
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\components\HeroBanner.jsx", "JavaScript JSX", 0, 26, 0, 0, 0, 0, 0, 0, 2, 28
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\components\Layout.jsx", "JavaScript JSX", 0, 25, 0, 0, 0, 0, 0, 0, 1, 26
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\components\Navbar.jsx", "JavaScript JSX", 0, 41, 0, 0, 0, 0, 0, 0, 1, 42
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\components\Product.jsx", "JavaScript JSX", 0, 18, 0, 0, 0, 0, 0, 0, 1, 19
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\components\index.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\context\Context.jsx", "JavaScript JSX", 0, 113, 0, 0, 0, 0, 0, 0, 3, 116
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\jsconfig.json", "JSON with Comments", 0, 0, 0, 0, 0, 0, 4, 4, 0, 8
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\next.config.js", "JavaScript", 4, 0, 0, 0, 0, 0, 0, 1, 2, 7
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\package-lock.json", "JSON", 0, 0, 0, 0, 0, 867, 0, 0, 1, 868
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\package.json", "JSON", 0, 0, 0, 0, 0, 20, 0, 0, 1, 21
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\public\next.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\public\thirteen.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\public\vercel.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\_app.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 1, 13
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\_document.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\api\hello.js", "JavaScript", 3, 0, 0, 0, 0, 0, 0, 1, 2, 6
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\index.js", "JavaScript", 38, 0, 0, 0, 0, 0, 0, 0, 5, 43
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\login.jsx", "JavaScript JSX", 0, 51, 0, 0, 0, 0, 0, 0, 2, 53
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\product\[id].jsx", "JavaScript JSX", 0, 89, 0, 0, 0, 0, 0, 0, 2, 91
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\user.jsx", "JavaScript JSX", 0, 7, 0, 0, 0, 0, 0, 0, 2, 9
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\styles\Home.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\styles\globals.css", "CSS", 0, 0, 822, 0, 0, 0, 0, 4, 48, 874
+"Total", "-", 76, 477, 822, 3, 23, 887, 4, 10, 101, 2403

@@ -1,0 +1,20 @@
+"filename", "language", "JavaScript JSX", "CSS", "JavaScript", "JSON", "Properties", "comment", "blank", "total"
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\.env", "Properties", 0, 0, 0, 0, 2, 0, 1, 3
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\components\Cart.jsx", "JavaScript JSX", 2, 0, 0, 0, 0, 0, 0, 2
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\components\Navbar.jsx", "JavaScript JSX", 8, 0, 0, 0, 0, 0, 0, 8
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\components\Orders.jsx", "JavaScript JSX", 94, 0, 0, 0, 0, 1, 3, 98
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\context\Context.jsx", "JavaScript JSX", 35, 0, 0, 0, 0, 0, 0, 35
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\lib\getStripe.js", "JavaScript", 0, 0, 9, 0, 0, 0, 3, 12
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\lib\utils.js", "JavaScript", 0, 0, 18, 0, 0, 1, 5, 24
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\package-lock.json", "JSON", 0, 0, 0, 224, 0, 0, 0, 224
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\package.json", "JSON", 0, 0, 0, 4, 0, 0, 0, 4
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\_app.js", "JavaScript", 0, 0, 0, 0, 0, 0, 1, 1
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\api\stripe.js", "JavaScript", 0, 0, 46, 0, 0, 1, 3, 50
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\index.js", "JavaScript", 0, 0, -3, 0, 0, 0, -2, -5
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\login.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, -1, -1
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\placeorder.jsx", "JavaScript JSX", 105, 0, 0, 0, 0, 0, 5, 110
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\signup.jsx", "JavaScript JSX", 51, 0, 0, 0, 0, 0, 1, 52
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\sucess.jsx", "JavaScript JSX", 40, 0, 0, 0, 0, 20, 5, 65
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\pages\user.jsx", "JavaScript JSX", 23, 0, 0, 0, 0, 0, -2, 21
+"f:\Resume_Projects\Ecommerce\frontend\ecommerce\src\styles\globals.css", "CSS", 0, 216, 0, 0, 0, 6, 20, 242
+"Total", "-", 358, 216, 70, 228, 2, 29, 42, 945
